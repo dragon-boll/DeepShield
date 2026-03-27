@@ -205,3 +205,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# Archivos privados de Termux
+.bash_history
+.ssh/
+.gitconfig
+storage/
+*.dex
+live_video.mp4
+index.html
+
